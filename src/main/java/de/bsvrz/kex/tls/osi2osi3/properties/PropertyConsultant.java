@@ -27,8 +27,6 @@
 
 package de.bsvrz.kex.tls.osi2osi3.properties;
 
-import java.util.Properties;
-
 /**
  * Klasse zur Konvertierung von Text-Properties in einfache Datentypen
  *
